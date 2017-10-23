@@ -1,0 +1,11 @@
+modulewijzer
+lijst taken maken
+
+System requirements:
+- User can register and unregister 
+- User can search products
+- User can order products (user mockup for  payment)
+- User should be able to save the configuration
+
+- Admin should be able to manage products
+- Admin should be able to visualize statistics
